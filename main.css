@@ -1,0 +1,23 @@
+*{
+    background-color: #eee;
+}
+.chat-stream{
+    height: 80vh;
+    background-color: #aaa;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    font-size: 20px;
+    color: #000;
+    border: 5px solid #00f;
+}
+#name{
+    width: 100px;
+    background-color: #ccc;
+    color: #000;
+}
+#message{
+    width: 60vw;
+    background-color: #ccc;
+    color: #000;
+}
